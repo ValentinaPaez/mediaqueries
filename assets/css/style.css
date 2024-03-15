@@ -15,6 +15,10 @@ header {
     cursor: pointer;
 }
 
+.icono {
+    font-size: 2rem;
+}
+
 .point {
     cursor: pointer;
 }
@@ -137,7 +141,7 @@ footer {
         margin-top: 10px;
         display: flex;
         flex-direction: column;
-        overflow: scroll;
+
         height: 60%;
     }
     
